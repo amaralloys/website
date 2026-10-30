@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+<title id="title">Amar Alloys</title><desc id="desc">Amar Alloys, established 1957</desc>
+<rect width="560" height="150" fill="#172a32"/>
+<circle cx="78" cy="75" r="52" fill="none" stroke="#c5a56b" stroke-width="3"/>
+<circle cx="78" cy="75" r="44" fill="none" stroke="#c5a56b" stroke-width="1" opacity=".7"/>
+<path d="M48 91 L78 39 L108 91 M60 73 H96" fill="none" stroke="#e7d4ae" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+<text x="150" y="72" fill="#f4efe5" font-family="Georgia,serif" font-size="43" letter-spacing="2">AMAR ALLOYS</text>
+<path d="M151 88 H500" stroke="#c5a56b" stroke-width="1.5"/>
+<text x="153" y="116" fill="#d9c7a5" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">ESTABLISHED 1957</text>
+</svg>
