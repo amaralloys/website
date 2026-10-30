@@ -1,4 +1,4 @@
-/* Heritage Alloys - small behaviours. No libraries needed. */
+/* Amar Alloys - small behaviours. No libraries needed. */
 
 /* ---------- Mobile menu ---------- */
 (function () {
